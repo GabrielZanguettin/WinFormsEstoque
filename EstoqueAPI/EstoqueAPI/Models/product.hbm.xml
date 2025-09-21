@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="EstoqueAPI"
+                   namespace="EstoqueAPI.Models">
+
+	<class name="Product" table="Product">
+		<id name="Id" column="Id" type="Int32">
+			<generator class="identity"/>
+		</id>
+
+		<property name="Name">
+			<column name="Name" not-null="true" length="255"/>
+		</property>
+
+		<property name="Description">
+			<column name="Description" not-null="true" length="255"/>
+		</property>
+
+		<property name="Stock" type="int">
+			<column name="Stock" not-null="true" default="0"/>
+		</property>
+	</class>
+</hibernate-mapping>
