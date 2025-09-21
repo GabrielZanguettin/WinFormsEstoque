@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\bin\Debug\net8.0-windows\EstoqueWinForms.exe
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\bin\Debug\net8.0-windows\EstoqueWinForms.deps.json
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\bin\Debug\net8.0-windows\EstoqueWinForms.runtimeconfig.json
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\bin\Debug\net8.0-windows\EstoqueWinForms.dll
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\bin\Debug\net8.0-windows\EstoqueWinForms.pdb
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.Form1.resources
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.AssemblyInfo.cs
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.dll
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\refint\EstoqueWinForms.dll
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.pdb
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\EstoqueWinForms.genruntimeconfig.cache
+C:\Users\gabri\source\repos\EstoqueWinForms\EstoqueWinForms\obj\Debug\net8.0-windows\ref\EstoqueWinForms.dll
