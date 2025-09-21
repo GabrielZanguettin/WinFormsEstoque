@@ -4,7 +4,7 @@
 		<property name="dialect">NHibernate.Dialect.MySQLDialect</property>
 		<property name="connection.driver_class">NHibernate.Driver.MySqlDataDriver</property>
 		<property name="connection.connection_string">
-			Server=localhost;Port=3306;Database=Estoque;User id=root;Password=Loiro0511@;
+			Server=localhost;Port=3306;Database=Estoque;User id=root;Password=SuaSenhaAqui;
 		</property>
 
 		<property name="show_sql">true</property>
